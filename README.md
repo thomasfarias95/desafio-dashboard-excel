@@ -16,3 +16,7 @@ Este projeto apresenta uma análise visual e interativa de dados de vendas, cons
 ## 📂 Conteúdo do Repositório
 - `Dashboard_Vendas.xlsx`: Arquivo principal com os dados e painel visual.
 - `dados_brutos/`: (Opcional) Pasta com a base utilizada antes do tratamento.
+
+<img width="1848" height="810" alt="image" src="https://github.com/user-attachments/assets/f58ad505-62f7-4a13-bfc9-85fc49945b31" />
+<img width="1838" height="735" alt="image" src="https://github.com/user-attachments/assets/02b85ae4-f155-4f01-97ff-918a701c4b57" />
+
